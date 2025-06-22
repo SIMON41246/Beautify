@@ -76,8 +76,6 @@ flutter run
 ## Building the App
 ```bash
 flutter build apk --release  # Android
-flutter build ios --release  # iOS
-flutter build web --release  # Web
 ```
 
 
@@ -95,4 +93,4 @@ flutter build web --release  # Web
 ## License
 [MIT License](LICENSE)
 # Beautify
-# Beautify
+
