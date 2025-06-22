@@ -99,3 +99,4 @@ flutter build web --release  # Web
 ## License
 [MIT License](LICENSE)
 # Beautify
+# Beautify
