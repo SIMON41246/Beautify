@@ -21,11 +21,7 @@ A Flutter-based mobile e-commerce application for beauty products with modern UI
   - Order history
   - Address management
 
-- **User Features**
-  - User authentication
-  - Profile management
-  - Order notifications
-  - Dark/Light theme support
+
 
 ## Technologies Used
 - **Frontend**: Flutter 3.19.5 with Dart 3.3.0
